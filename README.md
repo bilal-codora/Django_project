@@ -1,2 +1,2 @@
 # Django_project
-hi there
+watch, test, implement and go..
