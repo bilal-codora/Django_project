@@ -3,7 +3,5 @@ from django.urls import path, include
 from second import views
 
 urlpatterns = [
-   
     path('', views.index, name='second')
-    
 ]
